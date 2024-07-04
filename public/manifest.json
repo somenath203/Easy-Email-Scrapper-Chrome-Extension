@@ -1,0 +1,19 @@
+{
+  "name": "Easy Email Scrapper",
+  "description": "An extension used to scrap emails from any web page",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+        "128": "icon.png"
+    },
+  "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+            "32": "icon.png"
+        }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
