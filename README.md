@@ -10,6 +10,4 @@ https://github.com/somenath203/Easy-Email-Scrapper-Chrome-Extension/assets/81456
 
 The extension is also published in Chrome Web Store. Click here to check it out:
 
-https://chromewebstore.google.com/detail/easy-email-scrapper/phjgbhdkjbnhnaddndackijhjijjnaca?authuser=5&hl=en-GB
-
-
+https://chromewebstore.google.com/detail/easy-email-scrapper/phjgbhdkjbnhnaddndackijhjijjnaca
